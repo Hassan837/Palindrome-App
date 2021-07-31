@@ -27,5 +27,10 @@
 - To run this app, click live github website link given below. OR
 - open index.html in your browser.
 
-## Repo Link: https://github.com/Hassan837/Palindrome-App
-## Live Link: https://hassan837.github.io/Palindrome-App/
+## Repo Link:
+
+ https://github.com/Hassan837/Palindrome-App
+
+## Live Link: 
+
+https://hassan837.github.io/Palindrome-App/
